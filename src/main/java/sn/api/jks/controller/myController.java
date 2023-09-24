@@ -8,7 +8,7 @@ public class myController {
 	
 	@GetMapping("/hello")
 	public String hello() {
-		return "Running... ";
+		return "Running... !!!";
 	}
 
 }
